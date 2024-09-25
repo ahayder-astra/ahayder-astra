@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali
 - 👀 I’m interested in Techs and Extreme Sports
-- 🌱 I’m currently learning information diet
+- 🌱 Trying to leverage my ADHD
 - 📫 How to reach me? Telepathy
 
 <!---
